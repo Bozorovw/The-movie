@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: system-ui, sans-serif;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+span, a, label {
+    display: inline-block;
+}
+.box {
+    padding: 40px;
+    background-color: yellow;
+}
+.text {
+    font-size: 27px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.btn {
+    background-color: green;
+    color: white;
+    font-size: 24px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+}
+.new {
+    background-color: magenta;
+}
